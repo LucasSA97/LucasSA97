@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucas Sarachu</h1>
-<h3 align="center">A passionate full stack web developer from Argentina</h3>
+<h3 align="center">A passionate full stack web developer from Argentina. Living in Tenerife. Spain</h3>
 
 - 🌱 I’m currently learning **Frameworks and courses**
 
